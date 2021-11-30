@@ -7,10 +7,10 @@ Note that even though these texts are freely accessible, their copyright holder 
 
 ## Downloads (V 1.19 - 2020-02-07):
 
-- [epub](https://github.com/atrahhdis/alohadharma/raw/master/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.epub)
-- [azw3 (kindle)](https://github.com/atrahhdis/alohadharma/raw/master/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.azw3)
-- [mobi (old kindle devices)](https://github.com/atrahhdis/alohadharma/raw/master/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.mobi)
-- [PDF](https://github.com/atrahhdis/alohadharma/raw/master/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.pdf)
+- [epub](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.epub)
+- [azw3 (kindle)](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.azw3)
+- [mobi (old kindle devices)](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.mobi)
+- [PDF](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com/ebooks/Aloha%20Dharma:%20a%20compilation%20of%20texts%20from%20alohadharma.com.pdf)
 
 
 ## Supplementary material by Ron Crouch
