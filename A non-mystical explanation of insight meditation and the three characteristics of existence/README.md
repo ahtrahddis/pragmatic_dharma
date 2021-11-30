@@ -20,6 +20,6 @@ This e-book is an unofficial collection of texts written by [Kaj Sotala](https:/
 
 ## Downloads (V 1.01 - 2020-09-30)
 
-- [epub](https://github.com/atrahhdis/ks3c/raw/master/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.epub)
-- [azw3 (kindle)](https://github.com/atrahhdis/ks3c/raw/master/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.azw3)
-- [mobi (old kindle devices)](https://github.com/atrahhdis/ks3c/raw/master/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.mobi)
+- [epub](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.epub)
+- [azw3 (kindle)](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.azw3)
+- [mobi (old kindle devices)](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence/ebooks/A%20non-mystical%20explanation%20of%20insight%20meditation%20and%20the%20three%20characteristics%20of%20existence%20-%20Kaj%20Sotala.azw3)
