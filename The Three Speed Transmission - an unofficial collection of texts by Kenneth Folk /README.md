@@ -9,7 +9,6 @@ The copyright owner of this material is [Kenneth Folk](https://kennethfolkdharma
 
 ## Downloads (V 2.03 - 2020-09-30):
 
-- [epub](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.epub)
-- [azw3 (kindle)](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.azw3)
-- [mobi (old kindle devices)](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.mobi)
-- [PDF](https://github.com/atrahhdis/kf3st/raw/master/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.pdf)
+- [epub](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.epub)
+- [azw3 (kindle)](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20/ebooks/The%20Three%20Speed%20Transmihttps://github.com/ahtrahddis/pragmatic_dharma/raw/main/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.mobi)
+- [PDF](https://github.com/ahtrahddis/pragmatic_dharma/raw/main/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20/ebooks/The%20Three%20Speed%20Transmission%20-%20an%20unofficial%20collection%20of%20texts%20by%20Kenneth%20Folk%20-%20Kenneth%20Folk.pdf)
